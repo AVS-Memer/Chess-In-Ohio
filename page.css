@@ -4,3 +4,4 @@ h2 {color: white; font-weight: bold; font-family: "Comic Sans MS","Comic Sans";}
 h3 {color: white; font-weight: bold; font-family: "Comic Sans MS","Comic Sans";}
 h4 {color: white; font-family: "Comic Sans MS","Comic Sans";}
 p {color: white; font-family: "Comic Sans MS","Comic Sans";}
+.button {background-color: black; color: white; font-weight: bold; border: 2px solid white; padding: 10px 20px;}
