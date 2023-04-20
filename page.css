@@ -5,6 +5,7 @@ h3 {color: white; font-weight: bold; font-family: "Comic Sans MS","Comic Sans";}
 h4 {color: white; font-weight: bold; font-family: "Comic Sans MS","Comic Sans";}
 p {color: white; font-family: "Comic Sans MS","Comic Sans";}
 .button {background-color: black; color: white; font-family: "Comic Sans MS", "Comic Sans"; font-weight: bold; text-decoration: none; border: 2px solid white; padding: 10px 20px;}
+.footer {color: white; text-align: right; font-family: "Comic Sans MS","Comic Sans";}
 table {border: 2px solid; color: white; font-family: "Comic Sans MS", "Comic Sans"; text-align: center;}
 ul li {color: white; font-family: "Comic Sans MS","Comic Sans";}
 a {color: #00ffff; font-family: "Comic Sans MS","Comic Sans"; font-weight: bold; text-decoration: none;}
