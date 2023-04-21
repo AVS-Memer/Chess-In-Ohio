@@ -3,7 +3,7 @@ h1 {color: white; font-weight: bold; font-family: "Comic Sans MS","Comic Sans";}
 h2 {color: white; font-weight: bold; font-family: "Comic Sans MS","Comic Sans";}
 h3 {color: white; font-weight: bold; font-family: "Comic Sans MS","Comic Sans";}
 h4 {color: white; font-weight: bold; font-family: "Comic Sans MS","Comic Sans";}
-h5 {color: black; font-weight: bold; font-size: 100px;}
+h5 {color: black; font-weight: bold; font-size: 50px;}
 p {color: white; font-family: "Comic Sans MS","Comic Sans";}
 .button {background-color: black; color: white; font-family: "Comic Sans MS", "Comic Sans"; font-weight: bold; text-decoration: none; border: 2px solid white; padding: 10px 20px;}
 .footer {position: fixed; left: 0; bottom: 0; width: 100%; background-color: red; text-align: center;}
